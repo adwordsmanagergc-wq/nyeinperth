@@ -1,0 +1,1014 @@
+[
+  {
+    "slug": "new-years-eve-in-the-city-elizabeth-quay",
+    "name": "New Year's Eve in the City at Elizabeth Quay",
+    "venue": "Elizabeth Quay, Barrack Square & Supreme Court Gardens",
+    "suburb": "Perth CBD",
+    "area": "Perth CBD & Elizabeth Quay",
+    "categories": [
+      "free",
+      "family",
+      "vantage",
+      "river"
+    ],
+    "price_from": 0,
+    "price_text": "Free, no ticket needed (2025 format)",
+    "time": "About 5:00pm – 12:15am (2025 times)",
+    "includes": [
+      "8:30pm family fireworks and midnight fireworks over the Swan River",
+      "Free carnival rides in the Lotterywest Family Fun Zone (2025)",
+      "Floating-stage DJs, roving performers and circus acts",
+      "Food trucks across the riverside zones",
+      "Accessible paths, toilets, Auslan interpreters and sensory spaces (2025)"
+    ],
+    "fireworks": "Both 8:30pm & midnight",
+    "age": "All ages",
+    "url": "https://visitperth.com/events",
+    "featured": true,
+    "blurb": "The City of Perth's free riverside celebration and the city's main fireworks. Around 130,000 people came in 2025. The event zone is alcohol-free, and the 2026 program is still to be announced."
+  },
+  {
+    "slug": "6head-elizabeth-quay-new-years-eve",
+    "name": "6HEAD New Year's Eve at Elizabeth Quay",
+    "venue": "6HEAD, Chevron Tower, Elizabeth Quay",
+    "suburb": "Perth CBD",
+    "area": "Perth CBD & Elizabeth Quay",
+    "categories": [
+      "fine-dining",
+      "dining",
+      "river"
+    ],
+    "price_from": 395,
+    "price_text": "$395 per adult (2026 price)",
+    "time": "Evening; check sitting times with the venue",
+    "includes": [
+      "Three-course menu by Chef Sean Hall",
+      "Beverage package with champagne",
+      "Live entertainment and DJ",
+      "Midnight countdown",
+      "Views of the Elizabeth Quay fireworks"
+    ],
+    "fireworks": "Both early show & midnight",
+    "age": "Check with venue",
+    "url": "https://6head.com.au/events/new-years-eve-perth/",
+    "featured": true,
+    "blurb": "A premium steakhouse right on Elizabeth Quay, with drinks included and a table facing the river fireworks. Pricing for NYE 2026 is already published."
+  },
+  {
+    "slug": "the-reveley-nye-elizabeth-quay",
+    "name": "The Reveley NYE at Elizabeth Quay",
+    "venue": "The Reveley, Elizabeth Quay",
+    "suburb": "Perth CBD",
+    "area": "Perth CBD & Elizabeth Quay",
+    "categories": [
+      "dining",
+      "budget",
+      "river"
+    ],
+    "price_from": 89,
+    "price_text": "$89pp 4-course menu; drinks +$65 or +$90 (2025 prices, TBC)",
+    "time": "Two-hour sittings from 4:00pm to 10:00pm (2025)",
+    "includes": [
+      "Four-course set menu: canapé, shared entrée, choice of main, shared dessert",
+      "Optional Chandon or Moët drinks packages",
+      "Front-row position for the Elizabeth Quay fireworks"
+    ],
+    "fireworks": "Both 8:30pm & midnight",
+    "age": "All ages",
+    "url": "https://www.thereveleybar.com.au/whats-on/nye",
+    "featured": true,
+    "blurb": "A riverside bar on Elizabeth Quay with one of the best-value fireworks dinners in the city. Pick an early sitting with kids or a late one for the midnight show."
+  },
+  {
+    "slug": "the-island-elizabeth-quay-nye",
+    "name": "Twilight to Midnight at The Island",
+    "venue": "The Island, 1 Valdura Pl, Elizabeth Quay",
+    "suburb": "Perth CBD",
+    "area": "Perth CBD & Elizabeth Quay",
+    "categories": [
+      "party",
+      "family",
+      "budget",
+      "river"
+    ],
+    "price_from": 35,
+    "price_text": "$35pp; kids 12 and under free (2025 price, TBC)",
+    "time": "4:00pm – late",
+    "includes": [
+      "Early session 4–6pm with no ticket needed",
+      "Island Countdown for kids, 6–8:30pm",
+      "Midnight on Island Time party from 9pm",
+      "À la carte dining, drinks and wood-fired pizza until midnight",
+      "Live entertainment"
+    ],
+    "fireworks": "Both 8:30pm & midnight",
+    "age": "All ages",
+    "url": "https://www.theislandeq.com.au/whats-on/twlight-to-midnight-on-island-time-nye/",
+    "featured": false,
+    "blurb": "A waterside restaurant and microbrewery on the island in the middle of Elizabeth Quay, about as close to the fireworks as a ticket gets."
+  },
+  {
+    "slug": "c-restaurant-revolving-nye",
+    "name": "C Restaurant NYE: Revolving Dinner on Level 33",
+    "venue": "C Restaurant, Level 33, 44 St Georges Terrace",
+    "suburb": "Perth CBD",
+    "area": "Perth CBD & Elizabeth Quay",
+    "categories": [
+      "fine-dining",
+      "dining"
+    ],
+    "price_from": 195,
+    "price_text": "$195 early sitting or $315 late sitting (2025 prices, TBC)",
+    "time": "5:30pm or 8:30pm sittings (2025)",
+    "includes": [
+      "Multi-course NYE set menu",
+      "Live music",
+      "Perth's only revolving restaurant, 33 floors up",
+      "Late sitting runs through the midnight countdown"
+    ],
+    "fireworks": "City views from level 33",
+    "age": "Check with venue",
+    "url": "https://www.crestaurant.com.au/events/new-years-eve/",
+    "featured": false,
+    "blurb": "Watch the whole city turn beneath you on Perth's revolving restaurant, with a cheaper early sitting or a late one that takes you into 2027."
+  },
+  {
+    "slug": "hearth-ritz-carlton-nye",
+    "name": "Hearth NYE at The Ritz-Carlton",
+    "venue": "Hearth, The Ritz-Carlton Perth, 1 Barrack St",
+    "suburb": "Perth CBD",
+    "area": "Perth CBD & Elizabeth Quay",
+    "categories": [
+      "fine-dining",
+      "dining",
+      "river"
+    ],
+    "price_from": 295,
+    "price_text": "From $295pp (2025 price, TBC)",
+    "time": "Evening; check sitting times with the venue",
+    "includes": [
+      "Six-course WA tasting menu (2025: Southwest marron, dry-aged Wagin duck)",
+      "Champagne on arrival",
+      "Songbird rooftop bar in the same hotel also runs an NYE party"
+    ],
+    "fireworks": "Near the Elizabeth Quay shows",
+    "age": "Check with venue",
+    "url": "https://www.ritzcarlton.com/en/hotels/perrz-the-ritz-carlton-perth/dining/",
+    "featured": false,
+    "blurb": "A polished WA produce degustation at the Ritz-Carlton on Elizabeth Quay, steps from the riverside fireworks."
+  },
+  {
+    "slug": "wildflower-state-buildings-nye",
+    "name": "Wildflower NYE at State Buildings",
+    "venue": "Wildflower, State Buildings, cnr St Georges Tce & Barrack St",
+    "suburb": "Perth CBD",
+    "area": "Perth CBD & Elizabeth Quay",
+    "categories": [
+      "fine-dining",
+      "dining",
+      "rooftop"
+    ],
+    "price_from": 195,
+    "price_text": "From $195pp, four or six courses (2025 price, TBC)",
+    "time": "From 5:30pm (2025)",
+    "includes": [
+      "Four or six-course seasonal set menu",
+      "Drinks on the Wildflower terrace",
+      "State Buildings runs seven venues on NYE, open until 1:30am"
+    ],
+    "fireworks": "Short walk to Elizabeth Quay",
+    "age": "Check with venue",
+    "url": "https://statebuildings.com/",
+    "featured": false,
+    "blurb": "Fine dining on the rooftop level of the heritage State Buildings, a five-minute walk from the riverside fireworks."
+  },
+  {
+    "slug": "state-buildings-petition-long-chim-post-nye",
+    "name": "NYE at Petition, Long Chim & Post",
+    "venue": "State Buildings, cnr St Georges Tce & Barrack St",
+    "suburb": "Perth CBD",
+    "area": "Perth CBD & Elizabeth Quay",
+    "categories": [
+      "dining",
+      "family",
+      "budget"
+    ],
+    "price_from": 135,
+    "price_text": "From $135pp adults, $60 kids; Post $155 (2025 prices, TBC)",
+    "time": "From 5:30pm (2025)",
+    "includes": [
+      "Three-course festive menus at Petition, Wine Merchant and Long Chim",
+      "Four-course Italian dinner at Post",
+      "Kids' pricing at most venues",
+      "Bars open late in the State Buildings"
+    ],
+    "fireworks": "Short walk to Elizabeth Quay",
+    "age": "All ages",
+    "url": "https://statebuildings.com/",
+    "featured": false,
+    "blurb": "The more relaxed State Buildings options: Thai at Long Chim, modern bistro at Petition and Italian at Post, with kids' menus for an early family dinner."
+  },
+  {
+    "slug": "frasers-kings-park-nye",
+    "name": "Fraser's NYE Dinner in Kings Park",
+    "venue": "Fraser's Restaurant, 60 Fraser Ave, Kings Park",
+    "suburb": "Kings Park",
+    "area": "Kings Park & West Perth",
+    "categories": [
+      "fine-dining",
+      "dining",
+      "family"
+    ],
+    "price_from": 240,
+    "price_text": "$240pp adults, $100 under 12s (2026 price)",
+    "time": "From 6:00pm, 2.5-hour sittings",
+    "includes": [
+      "Shared plates and king prawn risotto",
+      "Choice of Goldband snapper, Black Angus fillet or pork cutlet",
+      "Dessert",
+      "Live band from 6:30pm",
+      "Add-ons: oysters, WA rock lobster salad, Moët"
+    ],
+    "fireworks": "City & river views; fireworks view varies",
+    "age": "All ages",
+    "url": "https://www.frasersrestaurant.com.au/whats-on/",
+    "featured": true,
+    "blurb": "A classic Perth NYE dinner with the city skyline laid out below Kings Park. NYE 2026 menu and pricing are already published."
+  },
+  {
+    "slug": "crown-perth-new-years-eve",
+    "name": "New Year's Eve at Crown Perth",
+    "venue": "Crown Perth, Great Eastern Hwy",
+    "suburb": "Burswood",
+    "area": "East Perth & Burswood",
+    "categories": [
+      "party",
+      "fine-dining",
+      "dining"
+    ],
+    "price_from": 345,
+    "price_text": "Crystal Club from $345; NYE Gala $395 (2025 prices, TBC)",
+    "time": "From 7:30pm (2025 gala)",
+    "includes": [
+      "Crystal Club NYE event with sweeping views",
+      "2025 Gala: three-course menu, unlimited Moët and live bands",
+      "NYE menus at Nobu, Bistro Guillaume, Modo Mio, Silks and more"
+    ],
+    "fireworks": "No guaranteed view",
+    "age": "Check with venue",
+    "url": "https://www.crownperth.com.au/whats-on/new-years-eve",
+    "featured": false,
+    "blurb": "Perth's biggest all-in-one NYE venue: a gala, a club party and a dozen restaurants under one roof in Burswood."
+  },
+  {
+    "slug": "qt-perth-santini-rooftop-nye",
+    "name": "NYE at QT Perth: Santini & the Rooftop",
+    "venue": "QT Perth, 133 Murray St",
+    "suburb": "Perth CBD",
+    "area": "Perth CBD & Elizabeth Quay",
+    "categories": [
+      "dining",
+      "rooftop",
+      "party"
+    ],
+    "price_from": 149,
+    "price_text": "Santini from $149; rooftop party from $249 (2025 prices, TBC)",
+    "time": "Multiple dinner sittings; rooftop from 8:00pm (2025)",
+    "includes": [
+      "Five-course Italian menu at Santini Bar & Grill (2025)",
+      "Late seating includes rooftop access",
+      "Rooftop party with free-flowing drinks, canapés and DJs"
+    ],
+    "fireworks": "City views",
+    "age": "18+ (rooftop)",
+    "url": "https://www.qthotels.com/perth/",
+    "featured": false,
+    "blurb": "Candlelit Italian downstairs and a themed party on one of the CBD's best-known rooftops, so you can do dinner and dancing in one booking."
+  },
+  {
+    "slug": "the-aviary-neon-jungle-nye",
+    "name": "The Aviary Neon Jungle NYE",
+    "venue": "The Aviary, Level 1, 140 William St",
+    "suburb": "Perth CBD",
+    "area": "Perth CBD & Elizabeth Quay",
+    "categories": [
+      "party",
+      "rooftop",
+      "budget"
+    ],
+    "price_from": 105,
+    "price_text": "First release $105 (2025 price, TBC)",
+    "time": "From 7:00pm (2025)",
+    "includes": [
+      "Three hours of bubbles, house wine and tap beer",
+      "Food stations",
+      "DJs, UV paint and neon styling"
+    ],
+    "fireworks": "City views",
+    "age": "18+",
+    "url": "https://theaviaryperth.com.au/",
+    "featured": false,
+    "blurb": "A CBD rooftop turned into a glowing jungle party, with a drinks package covering the run-up to midnight."
+  },
+  {
+    "slug": "lils-rooftop-nye",
+    "name": "Lil's Rooftop NYE",
+    "venue": "Lil's Rooftop & Bar, 437 Murray St",
+    "suburb": "Perth CBD",
+    "area": "Perth CBD & Elizabeth Quay",
+    "categories": [
+      "party",
+      "rooftop",
+      "budget"
+    ],
+    "price_from": 65,
+    "price_text": "$65pp (2025 price, TBC)",
+    "time": "9:00pm – 11:00pm package (2025)",
+    "includes": [
+      "Two hours of free-flowing wine, sparkling and beer",
+      "DJs",
+      "Cheese wheel pasta"
+    ],
+    "fireworks": "City views",
+    "age": "18+",
+    "url": "https://lilsrooftopbar.com.au/",
+    "featured": false,
+    "blurb": "A Med-style rooftop in the West End with a short, cheap drinks session that ends in time to walk down for the midnight fireworks."
+  },
+  {
+    "slug": "market-grounds-nye",
+    "name": "Market Grounds NYE Night Market Party",
+    "venue": "Market Grounds, 10 Telethon Ave",
+    "suburb": "Perth CBD",
+    "area": "Perth CBD & Elizabeth Quay",
+    "categories": [
+      "party",
+      "budget"
+    ],
+    "price_from": 20,
+    "price_text": "GA $20 incl. a drink; VIP $89 (2025 prices, TBC)",
+    "time": "4:00pm – 1:00am (2025)",
+    "includes": [
+      "Entry drink with GA",
+      "VIP: three hours of drinks, roaming canapés and upper-level access",
+      "DJs, fire dancers and cage dancers"
+    ],
+    "fireworks": "No guaranteed view",
+    "age": "18+",
+    "url": "https://marketgrounds.com.au/",
+    "featured": false,
+    "blurb": "A big, easy CBD beer garden party with a $20 door price and a VIP upgrade if you want the drinks covered."
+  },
+  {
+    "slug": "levels-nye-stories-yagan-square",
+    "name": "LEVELS NYE at Stories, Yagan Square",
+    "venue": "Stories, Yagan Square, 376–420 Wellington St",
+    "suburb": "Perth CBD",
+    "area": "Northbridge & Inner North",
+    "categories": [
+      "party",
+      "rooftop",
+      "budget"
+    ],
+    "price_from": 29.9,
+    "price_text": "From $29.90 (2025 price, TBC)",
+    "time": "8:00pm – 2:00am (2025)",
+    "includes": [
+      "Three levels and four zones",
+      "Rooftop silent disco",
+      "Multiple bars across the five-storey venue"
+    ],
+    "fireworks": "Skyline views",
+    "age": "18+",
+    "url": "https://www.stories.au/",
+    "featured": false,
+    "blurb": "A multi-level block party inside the new Stories precinct at Yagan Square, one of the cheapest big-venue tickets in the city."
+  },
+  {
+    "slug": "garbage-nye-the-rechabite",
+    "name": "Garbage NYE at The Rechabite",
+    "venue": "The Rechabite, 224 William St",
+    "suburb": "Northbridge",
+    "area": "Northbridge & Inner North",
+    "categories": [
+      "party",
+      "budget"
+    ],
+    "price_from": 49,
+    "price_text": "From $49 (2025 price, TBC)",
+    "time": "9:00pm – late (2025)",
+    "includes": [
+      "Three stages from the basement to the rooftop",
+      "Laneway and front-yard spaces",
+      "DJs all night"
+    ],
+    "fireworks": "No guaranteed view",
+    "age": "18+",
+    "url": "https://www.therechabite.com.au/",
+    "featured": false,
+    "blurb": "A heritage Northbridge hall taken over by a three-stage party, from the basement right up to the rooftop."
+  },
+  {
+    "slug": "leederville-nye-block-party",
+    "name": "Leederville NYE Block Party",
+    "venue": "The Leederville precinct, 742 Newcastle St",
+    "suburb": "Leederville",
+    "area": "Northbridge & Inner North",
+    "categories": [
+      "party",
+      "dining",
+      "budget"
+    ],
+    "price_from": 49,
+    "price_text": "From $49 entry; dinner packages from $130 (2025 prices, TBC)",
+    "time": "7:00pm – late (2025)",
+    "includes": [
+      "Eleven spaces and eight stages",
+      "Venues include The Leederville Hotel, Servo, The Garden, Duende and Lima Cantina",
+      "Optional set-menu and drinks packages that include entry"
+    ],
+    "fireworks": "No guaranteed view",
+    "age": "18+",
+    "url": "https://www.theleedervilleprecinct.com.au/events/nye-block-party-2",
+    "featured": false,
+    "blurb": "One wristband for a whole precinct of bars, with dinner packages if you want a table before the party starts."
+  },
+  {
+    "slug": "si-paradiso-nye",
+    "name": "Si Paradiso NYE Dinner & Courtyard Party",
+    "venue": "Si Paradiso, 1/446 Beaufort St",
+    "suburb": "Highgate",
+    "area": "Northbridge & Inner North",
+    "categories": [
+      "dining",
+      "party"
+    ],
+    "price_from": 50,
+    "price_text": "Courtyard party from about $50–$60; dinner party about $125 (2025 prices, TBC)",
+    "time": "6:00pm – 2:00am",
+    "includes": [
+      "Italian set menu with local seafood, pizzas and desserts",
+      "Wine, magnums and cocktails",
+      "Courtyard dance party with DJs"
+    ],
+    "fireworks": "No view",
+    "age": "18+",
+    "url": "https://www.si-paradiso.com/events/paradiso-nye",
+    "featured": false,
+    "blurb": "Beaufort Street's favourite Italian party room: a long dinner followed by a courtyard party that runs well past midnight."
+  },
+  {
+    "slug": "the-court-nye",
+    "name": "The Court NYE Party",
+    "venue": "The Court, 50 Beaufort St",
+    "suburb": "Perth",
+    "area": "Northbridge & Inner North",
+    "categories": [
+      "party",
+      "budget"
+    ],
+    "price_from": 10,
+    "price_text": "First release $10 (2025 price, TBC)",
+    "time": "8:00pm – late (2025)",
+    "includes": [
+      "Drag shows",
+      "Balloon drops and confetti cannons",
+      "Pop DJs across the decades"
+    ],
+    "fireworks": "No view",
+    "age": "18+",
+    "url": "https://thecourt.com.au/",
+    "featured": false,
+    "blurb": "Perth's best-known LGBTQIA+ pub throws a loud, colourful NYE party at a price that barely registers."
+  },
+  {
+    "slug": "the-camfield-nye",
+    "name": "The Camfield NYE Garden Party",
+    "venue": "The Camfield, 1 Roger Mackay Dr",
+    "suburb": "Burswood",
+    "area": "East Perth & Burswood",
+    "categories": [
+      "party",
+      "dining",
+      "budget",
+      "river"
+    ],
+    "price_from": 35,
+    "price_text": "Garden party $35; bottomless dinner from $75 (2025 prices, TBC)",
+    "time": "7:00pm – 1:00am (2025)",
+    "includes": [
+      "Live music from FELIX The Band and DJ Buda (2025)",
+      "Bottomless package with a three-course share menu and drinks",
+      "Riverside setting next to Optus Stadium"
+    ],
+    "fireworks": "City skyline views",
+    "age": "18+",
+    "url": "https://www.thecamfieldbar.com.au/",
+    "featured": false,
+    "blurb": "A huge riverside beer hall next to Optus Stadium, with a cheap garden party or a bottomless dinner package."
+  },
+  {
+    "slug": "royal-on-the-waterfront-nye",
+    "name": "Tropical NYE at The Royal on the Waterfront",
+    "venue": "The Royal on the Waterfront, 60 Royal St",
+    "suburb": "East Perth",
+    "area": "East Perth & Burswood",
+    "categories": [
+      "party",
+      "budget",
+      "river"
+    ],
+    "price_from": 0,
+    "price_text": "Free entry (2025, TBC)",
+    "time": "6:00pm – late (2025)",
+    "includes": [
+      "Tropical paradise theme",
+      "DJ and music",
+      "Midnight countdown on Claisebrook Cove"
+    ],
+    "fireworks": "No guaranteed view",
+    "age": "18+ after dark",
+    "url": "https://theroyaleastperth.com/",
+    "featured": false,
+    "blurb": "A free-entry waterfront pub party on Claisebrook Cove. Bring a Hawaiian shirt."
+  },
+  {
+    "slug": "gloucester-park-nye-fireworks",
+    "name": "NYE at Gloucester Park",
+    "venue": "Gloucester Park, 3 Nelson Cres",
+    "suburb": "East Perth",
+    "area": "East Perth & Burswood",
+    "categories": [
+      "family",
+      "vantage",
+      "budget"
+    ],
+    "price_from": 35,
+    "price_text": "Adults $35; concession and 12–17 $20; under 12 free with ticket (2025 prices, TBC)",
+    "time": "5:00pm – midnight (2025)",
+    "includes": [
+      "Harness racing on the track",
+      "DJ, kids' activities, bars and food trucks",
+      "Gloucester Park's own midnight fireworks"
+    ],
+    "fireworks": "Own midnight fireworks",
+    "age": "All ages",
+    "url": "https://www.gloucesterpark.com.au/",
+    "featured": false,
+    "blurb": "A night at the trots with its own midnight fireworks, a short walk from the East Perth train station. No outside food is allowed."
+  },
+  {
+    "slug": "snack-nye-2026-claremont-showground",
+    "name": "SNACK NYE 2026",
+    "venue": "Claremont Showground, 1 Graylands Rd",
+    "suburb": "Claremont",
+    "area": "Western Suburbs & Coast",
+    "categories": [
+      "party"
+    ],
+    "price_from": 149,
+    "price_text": "Final release $149; VIP upgrade +$75 (2026 price)",
+    "time": "5:00pm – 1:00am",
+    "includes": [
+      "Six stages, including a 60m Acropolis main stage",
+      "Secret headliner at midnight",
+      "Foam party, silent disco, rides and themed bars",
+      "Food trucks",
+      "Midnight countdown with flames and fireworks"
+    ],
+    "fireworks": "Own midnight fireworks",
+    "age": "18+",
+    "url": "https://megatix.com.au/events/snacknye26",
+    "featured": true,
+    "blurb": "Perth's biggest NYE festival, with around 20,000 people at the Claremont Showground. 2026 tickets are on sale now."
+  },
+  {
+    "slug": "nye-on-the-beach-port-beach-festival",
+    "name": "NYE on the Beach: Port Beach Festival",
+    "venue": "COAST Port Beach, 42 Port Beach Rd",
+    "suburb": "North Fremantle",
+    "area": "Fremantle",
+    "categories": [
+      "party",
+      "beach"
+    ],
+    "price_from": null,
+    "price_text": "TBA (2025 sold out)",
+    "time": "6:00pm – 1:00am (2025)",
+    "includes": [
+      "Four stages including a sunset beach stage",
+      "Silent disco",
+      "Six or more pop-up bars and food trucks",
+      "Countdown sparklers at midnight"
+    ],
+    "fireworks": "No official display",
+    "age": "18+",
+    "url": "https://megatix.com.au/events/nye-on-the-beach-port-beach-festival",
+    "featured": false,
+    "blurb": "A beach festival with sand between your toes and four stages, right on the coast at North Fremantle. It sold out in 2025."
+  },
+  {
+    "slug": "scarborough-beach-bar-nye",
+    "name": "Scarborough Beach Bar NYE",
+    "venue": "Scarborough Beach Bar, 1 Manning St",
+    "suburb": "Scarborough",
+    "area": "Western Suburbs & Coast",
+    "categories": [
+      "party",
+      "beach",
+      "budget"
+    ],
+    "price_from": 0,
+    "price_text": "Free entry; bottomless 9–11pm $69pp (2025 prices, TBC)",
+    "time": "Until 1:00am (2025)",
+    "includes": [
+      "Live music",
+      "Beachfront terrace",
+      "Optional two-hour bottomless cocktails, slushies, beer and wine"
+    ],
+    "fireworks": "No official display",
+    "age": "18+ after dark",
+    "url": "https://www.scarboroughbeachbar.com.au/",
+    "featured": false,
+    "blurb": "Ring in the new year with the Indian Ocean at your feet. Free entry, with an optional bottomless session before midnight."
+  },
+  {
+    "slug": "good-company-karrinyup-nye",
+    "name": "NYE w/ Good Company",
+    "venue": "Good Company, 200 Karrinyup Rd",
+    "suburb": "Karrinyup",
+    "area": "Western Suburbs & Coast",
+    "categories": [
+      "dining",
+      "budget"
+    ],
+    "price_from": 109,
+    "price_text": "$109pp (2025 price, TBC)",
+    "time": "5:30pm – 8:30pm (2025)",
+    "includes": [
+      "Canapés during spritz hour",
+      "Shared mains, including cheese wheel pasta",
+      "Three-hour bottomless beer and wine",
+      "After 8:30pm: $15 pizzas and $15 espresso martinis"
+    ],
+    "fireworks": "No view",
+    "age": "Check with venue",
+    "url": "https://www.goodcompanybar.com.au/whats-on",
+    "featured": false,
+    "blurb": "An early bottomless dinner in the northern suburbs that wraps up in time for wherever you're heading at midnight."
+  },
+  {
+    "slug": "raffles-applecross-nye",
+    "name": "NYE at The Raffles, Applecross",
+    "venue": "The Raffles Hotel, 70–72 Canning Beach Rd",
+    "suburb": "Applecross",
+    "area": "South of the River",
+    "categories": [
+      "party",
+      "river",
+      "budget"
+    ],
+    "price_from": 0,
+    "price_text": "Free before 8pm; GA $10–$20; VIP $120 (2025 prices, TBC)",
+    "time": "From 8:00pm (2025)",
+    "includes": [
+      "Riverside VIP package with three hours of drinks and canapés",
+      "DJs",
+      "Big lawn and terrace on the Swan River"
+    ],
+    "fireworks": "River views to the city",
+    "age": "18+",
+    "url": "https://rafflesperth.com.au/",
+    "featured": false,
+    "blurb": "The famous Art Deco pub on the Applecross foreshore, looking across the river to the city skyline."
+  },
+  {
+    "slug": "sweetwater-rooftop-nye",
+    "name": "Sweetwater Rooftop Masquerade NYE",
+    "venue": "Sweetwater Rooftop Bar, Level 6, 1 Silas St",
+    "suburb": "East Fremantle",
+    "area": "Fremantle",
+    "categories": [
+      "party",
+      "rooftop"
+    ],
+    "price_from": 155,
+    "price_text": "$155pp (2025 price, TBC)",
+    "time": "8:00pm – 1:00am (2025)",
+    "includes": [
+      "Masquerade theme",
+      "Roaming canapés and food stations",
+      "Three hours of bubbles, wine and tap beer"
+    ],
+    "fireworks": "River & port views",
+    "age": "18+",
+    "url": "https://sweetwaterbarfreo.com.au/",
+    "featured": false,
+    "blurb": "Fremantle's highest rooftop bar turns into a masquerade party, with river and port views."
+  },
+  {
+    "slug": "the-left-bank-nye",
+    "name": "NYE at The Left Bank",
+    "venue": "The Left Bank, 15 Riverside Rd",
+    "suburb": "East Fremantle",
+    "area": "Fremantle",
+    "categories": [
+      "party",
+      "river",
+      "budget"
+    ],
+    "price_from": 90,
+    "price_text": "$90 + booking fee (2025 price, TBC)",
+    "time": "From 7:00pm (2025)",
+    "includes": [
+      "Three-hour bottomless drinks, 7:30–10:30pm",
+      "2000s and 2010s DJ set",
+      "Downstairs bar and beer garden"
+    ],
+    "fireworks": "River views",
+    "age": "18+",
+    "url": "https://www.leftbank.com.au/mevents/new-years-eve/",
+    "featured": false,
+    "blurb": "A riverside pub party in East Fremantle with a bottomless package and throwback hits."
+  },
+  {
+    "slug": "bathers-beach-house-nye",
+    "name": "Bathers Beach House NYE",
+    "venue": "Bathers Beach House, 47 Mews Rd",
+    "suburb": "Fremantle",
+    "area": "Fremantle",
+    "categories": [
+      "party",
+      "beach"
+    ],
+    "price_from": 165,
+    "price_text": "Upstairs package from $165; downstairs free entry (2025, TBC)",
+    "time": "4:00pm – 1:00am",
+    "includes": [
+      "Upstairs: five-hour food and drinks package",
+      "Downstairs: free entry",
+      "Right on Bathers Beach"
+    ],
+    "fireworks": "Beachfront; no official display",
+    "age": "18+",
+    "url": "https://www.bathersbeachhouse.com.au/new-years-eve/",
+    "featured": false,
+    "blurb": "Fremantle's beachfront party, with a ticketed all-inclusive upstairs and free entry downstairs."
+  },
+  {
+    "slug": "hotel-rottnest-nye",
+    "name": "Hotel Rottnest NYE",
+    "venue": "Hotel Rottnest, 1 Bedford Ave",
+    "suburb": "Rottnest Island",
+    "area": "Rottnest Island",
+    "categories": [
+      "party",
+      "beach"
+    ],
+    "price_from": 129,
+    "price_text": "From $129 (2025 price, TBC)",
+    "time": "6:30pm – 12:30am (2025)",
+    "includes": [
+      "DJ sets and a live band (2025: Feel Estate)",
+      "Beachfront lawn on Thomson Bay",
+      "Close to the island's family fireworks"
+    ],
+    "fireworks": "Thomson Bay early fireworks",
+    "age": "18+",
+    "url": "https://www.hotelrottnest.com.au/",
+    "featured": false,
+    "blurb": "The island pub party on Thomson Bay. Book your ferry or accommodation first, as both sell out."
+  },
+  {
+    "slug": "rottnest-nye-family-fireworks",
+    "name": "NYE Family Fireworks on Rottnest Island",
+    "venue": "Thomson Bay, Wadjemup / Rottnest Island",
+    "suburb": "Rottnest Island",
+    "area": "Rottnest Island",
+    "categories": [
+      "free",
+      "family",
+      "vantage",
+      "beach"
+    ],
+    "price_from": 0,
+    "price_text": "Free event; ferry ticket needed",
+    "time": "4:00pm – 8:30pm (2026)",
+    "includes": [
+      "Afternoon entertainment for families",
+      "Live music, roving acts and activities (2025 program)",
+      "Early-evening fireworks over Thomson Bay (8pm in 2025)"
+    ],
+    "fireworks": "Thomson Bay, about 8pm",
+    "age": "All ages",
+    "url": "https://www.sealink.com.au/rottnest-island/events/nye/",
+    "featured": false,
+    "blurb": "A free family afternoon on the island that ends with fireworks over Thomson Bay. The fireworks are free, but you still need a ferry ticket, and ferries fill up fast."
+  },
+  {
+    "slug": "captain-cook-cruises-nye-cruise",
+    "name": "Captain Cook Cruises NYE Cruise",
+    "venue": "Captain Cook Cruises, Swan River",
+    "suburb": "Perth",
+    "area": "On the Swan River",
+    "categories": [
+      "cruise",
+      "party",
+      "river"
+    ],
+    "price_from": 279,
+    "price_text": "$279pp adult (2026 price)",
+    "time": "8:00pm – 12:30am",
+    "includes": [
+      "Welcome drink",
+      "Buffet dinner with mains, salads and desserts",
+      "DJ and photo booth",
+      "Reserved table seating",
+      "Bar for extra drinks"
+    ],
+    "fireworks": "On the river at midnight",
+    "age": "18+",
+    "url": "https://www.captaincookcruises.com.au/special-event-cruises/new-years-eve-cruise/",
+    "featured": true,
+    "blurb": "Perth's best-known NYE river cruise: four and a half hours on the Swan River with dinner, a DJ and the midnight countdown on the water. 2026 tickets are on sale."
+  },
+  {
+    "slug": "pirate-ship-mandurah-nye-cruise",
+    "name": "Pirate Ship Mandurah NYE Cruise",
+    "venue": "Eastern Foreshore Jetty, opposite 9 Mandurah Terrace",
+    "suburb": "Mandurah",
+    "area": "Mandurah & Rockingham",
+    "categories": [
+      "cruise",
+      "family",
+      "budget"
+    ],
+    "price_from": 65,
+    "price_text": "From $65 per seat (2026 price)",
+    "time": "7:30pm – about 9:15pm",
+    "includes": [
+      "Cruise past the Mandurah canal Christmas lights",
+      "Docks to watch the 9pm fireworks",
+      "BYO beer and wine, up to four drinks each"
+    ],
+    "fireworks": "Mandurah 9pm fireworks",
+    "age": "All ages",
+    "url": "https://pirateshipmandurah.com.au/boat-cruises/new-years-eve-cruise",
+    "featured": false,
+    "blurb": "A family-friendly cruise through Mandurah's Christmas lights that stops for the 9pm fireworks. Perfect with kids."
+  },
+  {
+    "slug": "mandurah-cruises-nye-lights-fireworks-cruise",
+    "name": "Mandurah Cruises NYE Lights & Fireworks Cruise",
+    "venue": "Mandjar Bay, in front of the Mandurah Performing Arts Centre",
+    "suburb": "Mandurah",
+    "area": "Mandurah & Rockingham",
+    "categories": [
+      "cruise",
+      "family",
+      "budget"
+    ],
+    "price_from": 90,
+    "price_text": "Adults $90, kids 3–12 $60 (last published price, TBC)",
+    "time": "About 7:15pm – 9:15pm",
+    "includes": [
+      "Two-hour cruise on a two-storey vessel",
+      "Canal Christmas lights",
+      "9pm fireworks from the water",
+      "Licensed bar and snacks to buy"
+    ],
+    "fireworks": "Mandurah 9pm fireworks",
+    "age": "All ages",
+    "url": "https://mandurahcruises.com.au/",
+    "featured": false,
+    "blurb": "A bigger licensed boat from Mandjar Bay that combines the canal light displays with the early fireworks."
+  },
+  {
+    "slug": "mandurah-new-years-eve-fireworks",
+    "name": "City of Mandurah NYE Fireworks",
+    "venue": "Mandurah Eastern Foreshore",
+    "suburb": "Mandurah",
+    "area": "Mandurah & Rockingham",
+    "categories": [
+      "free",
+      "family",
+      "vantage"
+    ],
+    "price_from": 0,
+    "price_text": "Free",
+    "time": "6:00pm – midnight (2026)",
+    "includes": [
+      "9pm and midnight fireworks",
+      "Outdoor movie before the early show",
+      "Smoke-free, alcohol-free and pet-free (service dogs welcome)"
+    ],
+    "fireworks": "Both 9pm & midnight",
+    "age": "All ages",
+    "url": "https://visitmandurah.com/event/new-years-eve-fireworks/",
+    "featured": false,
+    "blurb": "A free foreshore celebration about an hour south of Perth, with two fireworks shows over the water."
+  },
+  {
+    "slug": "rockingham-new-years-eve",
+    "name": "City of Rockingham New Year's Eve",
+    "venue": "Churchill Park & Bell Park, Rockingham Foreshore",
+    "suburb": "Rockingham",
+    "area": "Mandurah & Rockingham",
+    "categories": [
+      "free",
+      "family",
+      "vantage",
+      "beach"
+    ],
+    "price_from": 0,
+    "price_text": "Free",
+    "time": "5:00pm – midnight (2026)",
+    "includes": [
+      "9pm and midnight fireworks",
+      "Live music on stage all night",
+      "Rides, face painting and kids' activities",
+      "Low-sensory zone and food vendors"
+    ],
+    "fireworks": "Both 9pm & midnight",
+    "age": "All ages",
+    "url": "https://rockingham.wa.gov.au/events,-culture-and-tourism/events/major-annual-events",
+    "featured": false,
+    "blurb": "A free beachside party on the Rockingham foreshore with two fireworks shows. NYE 2026 is confirmed."
+  },
+  {
+    "slug": "mindarie-marina-nye-fireworks",
+    "name": "NYE Fireworks at The Marina Mindarie",
+    "venue": "The Marina Mindarie, 33 Ocean Falls Blvd",
+    "suburb": "Mindarie",
+    "area": "Northern Suburbs",
+    "categories": [
+      "free",
+      "family",
+      "vantage"
+    ],
+    "price_from": 0,
+    "price_text": "Free (2025 format)",
+    "time": "Afternoon to evening (2025)",
+    "includes": [
+      "Early-evening family fireworks over the marina (about 8:30pm in 2025)",
+      "Marina restaurants and bars",
+      "Supported by the City of Wanneroo"
+    ],
+    "fireworks": "About 8:30pm",
+    "age": "All ages",
+    "url": "https://www.themarinamindarie.com/",
+    "featured": false,
+    "blurb": "The northern suburbs' early family fireworks. The marina is a licensed venue, so no BYO alcohol, food or chairs."
+  },
+  {
+    "slug": "perth-zoo-zoo-years-eve",
+    "name": "Zoo Year's Eve at Perth Zoo",
+    "venue": "Perth Zoo, 20 Labouchere Rd",
+    "suburb": "South Perth",
+    "area": "South of the River",
+    "categories": [
+      "family"
+    ],
+    "price_from": null,
+    "price_text": "General admission; free for members (2025 format)",
+    "time": "3:30pm – 7:30pm (2025)",
+    "includes": [
+      "Extended zoo opening hours",
+      "Live family entertainment on the Main Lawn",
+      "Kids' countdown at 7:30pm",
+      "Picnic or buy food at the café"
+    ],
+    "fireworks": "No fireworks",
+    "age": "All ages",
+    "url": "https://perthzoo.wa.gov.au/whats-on/event/zooyearseve",
+    "featured": false,
+    "blurb": "An early NYE for little ones, with a 7:30pm 'midnight' countdown so everyone is home for bedtime."
+  },
+  {
+    "slug": "vines-resort-aussie-bbq-nye-family-party",
+    "name": "Aussie BBQ NYE Family Party at The Vines",
+    "venue": "The Vines Resort, Verdelho Dr",
+    "suburb": "The Vines",
+    "area": "Swan Valley",
+    "categories": [
+      "family",
+      "dining",
+      "budget"
+    ],
+    "price_from": 85,
+    "price_text": "Adults $85, kids 3–12 $59, under 2 free, + booking fee (2026 price)",
+    "time": "6:00pm – 8:30pm",
+    "includes": [
+      "Aussie BBQ buffet with steaks, snags and kebabs",
+      "Make-your-own pavlova station",
+      "Free mini golf",
+      "Live music and a cash bar",
+      "Kids' countdown at 8:30pm"
+    ],
+    "fireworks": "No view",
+    "age": "All ages",
+    "url": "https://www.vines.com.au/news/2025/september/aussie-bbq-nye-family-party",
+    "featured": false,
+    "blurb": "A relaxed Swan Valley family dinner with mini golf and an 8:30pm kids' countdown. NYE 2026 pricing is published."
+  }
+]
